@@ -9,7 +9,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [GitHub](https://github.com/DorottyaB/advice-generator)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://dorottyab.github.io/advice-generator/)
 
 ### Built with
 
@@ -17,6 +17,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- JavaScript
+- Fetch API
 
 ## Author
 
